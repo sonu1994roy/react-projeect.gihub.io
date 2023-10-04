@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# inventory stoke managed show-room and godown simple  Stoke Qounty manage functionality. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
